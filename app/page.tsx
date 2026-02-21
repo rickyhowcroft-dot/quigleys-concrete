@@ -245,8 +245,10 @@ export default function Home() {
           <h2 className="text-3xl md:text-4xl font-extrabold text-gray-900 mb-3">About Us</h2>
           <div className="w-20 h-1 bg-orange-500 mx-auto mb-10 rounded"></div>
 
-          <div className="space-y-6 text-lg text-gray-600 leading-relaxed">
-            <p>Quigley&apos;s Concrete is a family-owned and operated business with over 20 years of experience in the concrete industry. We specialize in patios, sidewalks, and all types of flatwork for residential and commercial&nbsp;customers.</p>
+          <div className="space-y-6 text-lg text-gray-600 leading-relaxed max-w-2xl mx-auto">
+            <p>Quigley&apos;s Concrete is a family-owned and operated business with over 20 years of experience in the concrete&nbsp;industry.</p>
+
+            <p>We specialize in patios, sidewalks, and all types of flatwork for residential and commercial&nbsp;customers.</p>
 
             <p>No job is too big or too small. From a simple sidewalk to a brand-new stamped patio, we bring the same level of craftsmanship and attention to detail to every&nbsp;project.</p>
 
@@ -263,8 +265,8 @@ export default function Home() {
       <section id="services" className="py-20">
         <div className="max-w-6xl mx-auto px-4" style={{ maxWidth: '72rem', marginLeft: 'auto', marginRight: 'auto' }}>
           <h2 className="text-3xl md:text-4xl font-extrabold text-gray-900 mb-3 text-center">Our Services</h2>
-          <p className="text-gray-500 text-center mb-2">Tap any category to browse our work</p>
-          <div className="w-20 h-1 bg-orange-500 mx-auto mb-12 rounded"></div>
+          <p className="text-gray-500 text-center mb-3">Tap any category to browse our work</p>
+          <div className="w-20 h-1 bg-orange-500 mx-auto mb-10 rounded"></div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
             {categories.map((cat) => (
               <button
@@ -296,7 +298,7 @@ export default function Home() {
       <section id="contact" className="py-20 bg-gray-900 text-white">
         <div className="max-w-4xl mx-auto px-6 text-center">
           <h2 className="text-3xl md:text-4xl font-extrabold mb-3">Get Your Free Estimate</h2>
-          <div className="w-20 h-1 bg-orange-500 mx-auto mb-8 rounded"></div>
+          <div className="w-20 h-1 bg-orange-500 mx-auto mb-10 rounded"></div>
           <div className="text-lg text-gray-300 mb-10 space-y-1">
             <p>Ready to start your project?</p>
             <p>Give us a call, send an email, or reach out on Facebook.</p>
