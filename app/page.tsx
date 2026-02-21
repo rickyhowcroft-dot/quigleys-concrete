@@ -38,6 +38,12 @@ const categories: Category[] = [
       { src: "/gallery/sidewalk-long.jpg", alt: "Long sidewalk pour" },
       { src: "/gallery/sidewalk-side.jpg", alt: "Side walkway pour" },
       { src: "/gallery/cobblestone-detail.jpg", alt: "Cobblestone stamped walkway detail" },
+      { src: "/gallery/sidewalk-curved-1.jpg", alt: "Curved concrete sidewalk" },
+      { src: "/gallery/sidewalk-curved-2.jpg", alt: "Curved walkway to front door" },
+      { src: "/gallery/sidewalk-stamped.jpg", alt: "Stamped concrete walkway" },
+      { src: "/gallery/sidewalk-alley.jpg", alt: "Cobblestone alley walkway" },
+      { src: "/gallery/sidewalk-brick-entry.jpg", alt: "Brick pattern entry walkway" },
+      { src: "/gallery/sidewalk-stamped-patio.jpg", alt: "Stamped sidewalk patio" },
     ],
   },
   {
