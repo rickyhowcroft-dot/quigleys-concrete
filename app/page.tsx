@@ -202,9 +202,8 @@ export default function Home() {
       {/* Nav */}
       <nav className="bg-gray-900 sticky top-0 z-50 shadow-lg">
         <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
-          <a href="#" className="flex items-center gap-3">
-            <Image src="/logo.jpg" alt="Quigley's Concrete" width={44} height={44} className="rounded" />
-            <span className="text-white font-bold text-lg hidden sm:inline">Quigley&apos;s Concrete</span>
+          <a href="#" className="flex items-center">
+            <span className="text-white font-bold text-lg">Quigley&apos;s Concrete</span>
           </a>
           <div className="flex items-center gap-5 text-sm font-medium">
             <a href="#about" className="text-gray-300 hover:text-orange-400 transition hidden sm:inline">About</a>
