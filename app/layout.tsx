@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Quigley's Concrete | Stamped Concrete, Patios & Sidewalks | Walworth & Rochester NY",
   description:
-    "Quigley's Concrete is a family-owned concrete contractor in Walworth, NY serving the greater Rochester area for over 20 years. Specializing in stamped concrete patios, sidewalks, driveways, pool decks, foundations & decorative concrete. No job too big or small. Call (585) 831-7241 for a free estimate.",
+    "Quigley's Concrete is a family-owned concrete contractor in Walworth, NY serving the greater Rochester area for over 20 years. Specializing in stamped concrete patios, sidewalks, driveways, pool decks, foundations & decorative concrete. No job is too big or too small. Call (585) 831-7241 for a free estimate.",
   keywords: [
     "concrete contractor Rochester NY",
     "stamped concrete Rochester",
