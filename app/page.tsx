@@ -17,7 +17,6 @@ const categories: Category[] = [
     cover: "/gallery/large-patio.jpg",
     photos: [
       { src: "/gallery/large-patio.jpg", alt: "Large stamped concrete patio" },
-      { src: "/gallery/front-patio.jpg", alt: "Stamped front patio with flower pots" },
       { src: "/gallery/backyard-patio.jpg", alt: "Backyard stamped patio" },
       { src: "/gallery/flagstone-furniture.jpg", alt: "Flagstone patio with outdoor furniture" },
       { src: "/gallery/copper-stamped.jpg", alt: "Copper-toned stamped patio" },
@@ -117,6 +116,7 @@ const categories: Category[] = [
       { src: "/gallery/flagstone-steps.jpg", alt: "Flagstone patio with steps" },
       { src: "/gallery/concrete-steps.jpg", alt: "Fresh concrete steps" },
       { src: "/gallery/stamped-stoop.jpg", alt: "Stamped concrete stoop" },
+      { src: "/gallery/front-patio.jpg", alt: "Stamped front patio with flower pots" },
     ],
   },
 ];
