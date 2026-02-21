@@ -89,6 +89,8 @@ const categories: Category[] = [
       { src: "/gallery/red-door-steps.jpg", alt: "Stamped entry with red door" },
       { src: "/gallery/front-patio.jpg", alt: "Decorative stamped front patio" },
       { src: "/gallery/curved-walkway.jpg", alt: "Decorative curved walkway" },
+      { src: "/gallery/decorative-patio-long.jpg", alt: "Long decorative stamped patio" },
+      { src: "/gallery/decorative-brick-curve.jpg", alt: "Decorative brick pattern curved walkway" },
     ],
   },
   {
