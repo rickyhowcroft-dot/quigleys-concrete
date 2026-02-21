@@ -23,7 +23,6 @@ const categories: Category[] = [
       { src: "/gallery/under-deck.jpg", alt: "Under-deck stamped patio" },
       { src: "/gallery/retaining-wall-patio.jpg", alt: "Stamped patio with retaining wall" },
       { src: "/gallery/patio-walkway.jpg", alt: "Patio with decorative walkway" },
-      { src: "/gallery/backyard-pour.jpg", alt: "Large backyard concrete pour" },
       { src: "/gallery/before-after.jpg", alt: "Before and after patio transformation" },
     ],
   },
