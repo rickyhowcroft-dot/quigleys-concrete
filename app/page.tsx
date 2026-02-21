@@ -111,6 +111,8 @@ const categories: Category[] = [
       { src: "/gallery/stamped-steps.jpg", alt: "Stamped concrete steps" },
       { src: "/gallery/front-entry.jpg", alt: "Front entry concrete with stone border" },
       { src: "/gallery/flagstone-steps.jpg", alt: "Flagstone patio with steps" },
+      { src: "/gallery/concrete-steps.jpg", alt: "Fresh concrete steps" },
+      { src: "/gallery/stamped-stoop.jpg", alt: "Stamped concrete stoop" },
     ],
   },
 ];
