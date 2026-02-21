@@ -227,11 +227,8 @@ export default function Home() {
             With over 20 years of experience, you can trust us with your patios,
             sidewalks, and all your concrete&nbsp;needs.
           </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a href="tel:5858317241" className="bg-orange-500 hover:bg-orange-600 text-white px-8 py-4 rounded-lg text-lg font-bold transition shadow-lg">
-              📞 (585) 831-7241
-            </a>
-            <a href="#contact" className="border-2 border-orange-500 text-orange-400 hover:bg-orange-500 hover:text-white px-8 py-4 rounded-lg text-lg font-bold transition">
+          <div className="flex justify-center">
+            <a href="#contact" className="bg-orange-500 hover:bg-orange-600 text-white px-8 py-4 rounded-lg text-lg font-bold transition shadow-lg">
               Get a Free Estimate
             </a>
           </div>
