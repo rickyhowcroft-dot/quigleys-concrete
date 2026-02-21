@@ -202,8 +202,8 @@ export default function Home() {
       {/* Nav */}
       <nav className="bg-gray-900 sticky top-0 z-50 shadow-lg">
         <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
-          <a href="#" className="flex items-center">
-            <span className="text-white font-bold text-lg">Quigley&apos;s Concrete</span>
+          <a href="mailto:Quigleysconcrete@gmail.com" className="bg-orange-500 hover:bg-orange-600 text-white px-4 py-2 rounded-lg font-semibold transition text-sm">
+            ✉️ Email Us
           </a>
           <div className="flex items-center gap-5 text-sm font-medium">
             <a href="#about" className="text-gray-300 hover:text-orange-400 transition hidden sm:inline">About</a>
