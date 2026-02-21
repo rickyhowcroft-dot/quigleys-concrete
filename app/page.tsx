@@ -47,6 +47,8 @@ const categories: Category[] = [
     cover: "/gallery/driveway.jpg",
     photos: [
       { src: "/gallery/driveway.jpg", alt: "Fresh concrete driveway pour" },
+      { src: "/gallery/driveway-barn.jpg", alt: "Large driveway pour by barn" },
+      { src: "/gallery/driveway-side.jpg", alt: "Driveway side view" },
     ],
   },
   {
