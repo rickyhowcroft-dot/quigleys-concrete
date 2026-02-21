@@ -82,6 +82,9 @@ const categories: Category[] = [
       { src: "/gallery/pool-deck-wide.jpg", alt: "Stamped patio with retaining wall" },
       { src: "/gallery/copper-stamped.jpg", alt: "Copper-toned stamped patio" },
       { src: "/gallery/cobblestone-detail.jpg", alt: "Cobblestone stamped detail" },
+      { src: "/gallery/stamped-flagstone-entry.jpg", alt: "Flagstone stamped entry" },
+      { src: "/gallery/stamped-slate-wide.jpg", alt: "Stamped slate patio wide view" },
+      { src: "/gallery/stamped-slate-red-door.jpg", alt: "Stamped slate patio with red door" },
     ],
   },
   {
