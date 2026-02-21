@@ -244,7 +244,7 @@ export default function Home() {
             sidewalks, and all your concrete&nbsp;needs.
           </p>
           <div className="flex justify-center">
-            <a href="#contact" className="border-2 border-orange-500 text-white hover:bg-orange-500 hover:text-white px-8 py-4 rounded-lg text-lg font-bold transition">
+            <a href="#contact" className="border-2 border-orange-500 text-orange-400 hover:bg-orange-500 hover:text-white px-8 py-4 rounded-lg text-lg font-bold transition">
               Get a Free Estimate
             </a>
           </div>
