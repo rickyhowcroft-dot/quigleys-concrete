@@ -59,6 +59,8 @@ const categories: Category[] = [
       { src: "/gallery/barn-floor.jpg", alt: "Barn floor concrete pour" },
       { src: "/gallery/pavilion-pad.jpg", alt: "Pavilion concrete pad by pool" },
       { src: "/gallery/pavilion-pad-2.jpg", alt: "Pavilion pad pour" },
+      { src: "/gallery/foundation-patio.jpg", alt: "Large foundation pour" },
+      { src: "/gallery/foundation-slab.jpg", alt: "Concrete slab foundation" },
     ],
   },
   {
