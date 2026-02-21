@@ -73,6 +73,7 @@ const categories: Category[] = [
     cover: "/gallery/firepit-patio.jpg",
     photos: [
       { src: "/gallery/firepit-patio.jpg", alt: "Stamped flagstone patio with fire pit" },
+      { src: "/gallery/stamped-flagstone-entry.jpg", alt: "Flagstone stamped entry" },
       { src: "/gallery/firepit-close.jpg", alt: "Stamped fire pit patio close-up" },
       { src: "/gallery/flagstone-steps.jpg", alt: "Flagstone patio with steps and fire pit" },
       { src: "/gallery/flagstone-patio.jpg", alt: "Flagstone patio by deck stairs" },
@@ -81,7 +82,6 @@ const categories: Category[] = [
       { src: "/gallery/pool-deck-wide.jpg", alt: "Stamped patio with retaining wall" },
       { src: "/gallery/copper-stamped.jpg", alt: "Copper-toned stamped patio" },
       { src: "/gallery/cobblestone-detail.jpg", alt: "Cobblestone stamped detail" },
-      { src: "/gallery/stamped-flagstone-entry.jpg", alt: "Flagstone stamped entry" },
       { src: "/gallery/stamped-slate-wide.jpg", alt: "Stamped slate patio wide view" },
       { src: "/gallery/stamped-slate-red-door.jpg", alt: "Stamped slate patio with red door" },
     ],
