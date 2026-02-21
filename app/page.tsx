@@ -319,17 +319,17 @@ export default function Home() {
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-5 mb-12">
             <a href="tel:5858317241" className="bg-gray-800 hover:bg-gray-700 rounded-xl p-6 transition group">
               <div className="text-3xl mb-3">📞</div>
-              <div className="font-bold text-orange-400 group-hover:text-orange-300 text-lg">(585) 831-7241</div>
+              <div className="font-bold text-orange-400 group-hover:text-orange-400 text-lg">(585) 831-7241</div>
               <div className="text-gray-400 text-sm mt-1">Tap to call</div>
             </a>
             <a href="mailto:Quigleysconcrete@gmail.com" className="bg-gray-800 hover:bg-gray-700 rounded-xl p-6 transition group">
               <div className="text-3xl mb-3">✉️</div>
-              <div className="font-bold text-orange-400 group-hover:text-orange-300 text-base sm:text-lg break-all">Quigleysconcrete<wbr />@gmail.com</div>
+              <div className="font-bold text-orange-400 group-hover:text-orange-400 text-base sm:text-lg break-all">Quigleysconcrete<wbr />@gmail.com</div>
               <div className="text-gray-400 text-sm mt-1">Tap to email</div>
             </a>
             <a href="https://www.facebook.com/QuigleysConcrete/" target="_blank" rel="noopener noreferrer" className="bg-gray-800 hover:bg-gray-700 rounded-xl p-6 transition group">
               <div className="text-3xl mb-3">📘</div>
-              <div className="font-bold text-orange-400 group-hover:text-orange-300 text-lg">Facebook</div>
+              <div className="font-bold text-orange-400 group-hover:text-orange-400 text-lg">Facebook</div>
               <div className="text-gray-400 text-sm mt-1">Message us</div>
             </a>
           </div>
