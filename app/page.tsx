@@ -33,6 +33,7 @@ const categories: Category[] = [
     cover: "/gallery/curved-walkway.jpg",
     photos: [
       { src: "/gallery/curved-walkway.jpg", alt: "Curved stamped walkway with decorative border" },
+      { src: "/gallery/sidewalk-alley.jpg", alt: "Cobblestone alley walkway" },
       { src: "/gallery/walkway-planters.jpg", alt: "Walkway with stone planters" },
       { src: "/gallery/sidewalk-new.jpg", alt: "New construction sidewalk" },
       { src: "/gallery/sidewalk-long.jpg", alt: "Long sidewalk pour" },
@@ -41,7 +42,6 @@ const categories: Category[] = [
       { src: "/gallery/sidewalk-curved-1.jpg", alt: "Curved concrete sidewalk" },
       { src: "/gallery/sidewalk-curved-2.jpg", alt: "Curved walkway to front door" },
       { src: "/gallery/sidewalk-stamped.jpg", alt: "Stamped concrete walkway" },
-      { src: "/gallery/sidewalk-alley.jpg", alt: "Cobblestone alley walkway" },
       { src: "/gallery/sidewalk-brick-entry.jpg", alt: "Brick pattern entry walkway" },
       { src: "/gallery/sidewalk-stamped-patio.jpg", alt: "Stamped sidewalk patio" },
     ],
@@ -331,9 +331,6 @@ export default function Home() {
               <div className="text-gray-400 text-sm mt-1">Message us</div>
             </a>
           </div>
-          <a href="tel:5858317241" className="inline-block bg-orange-500 hover:bg-orange-600 text-white px-10 py-5 rounded-lg text-xl font-extrabold transition shadow-lg">
-            Request a Free Estimate →
-          </a>
         </div>
       </section>
 
