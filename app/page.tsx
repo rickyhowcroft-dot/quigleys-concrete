@@ -56,7 +56,7 @@ const categories: Category[] = [
     ],
   },
   {
-    name: "Concrete Slab",
+    name: "Concrete Slabs",
     desc: "Solid concrete slabs for new construction, garages, additions, and commercial builds.",
     cover: "/gallery/barn-floor.jpg",
     photos: [
