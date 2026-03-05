@@ -56,8 +56,8 @@ const categories: Category[] = [
     ],
   },
   {
-    name: "Foundations",
-    desc: "Solid foundations for new construction and additions.",
+    name: "Concrete Slab",
+    desc: "Solid concrete slabs for new construction, garages, additions, and commercial builds.",
     cover: "/gallery/barn-floor.jpg",
     photos: [
       { src: "/gallery/barn-floor.jpg", alt: "Barn floor concrete pour" },

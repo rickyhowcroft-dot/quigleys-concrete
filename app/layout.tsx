@@ -119,7 +119,7 @@ export default function RootLayout({
                   { "@type": "Offer", itemOffered: { "@type": "Service", name: "Concrete Driveways" } },
                   { "@type": "Offer", itemOffered: { "@type": "Service", name: "Pool Decks" } },
                   { "@type": "Offer", itemOffered: { "@type": "Service", name: "Decorative Concrete" } },
-                  { "@type": "Offer", itemOffered: { "@type": "Service", name: "Concrete Foundations" } },
+                  { "@type": "Offer", itemOffered: { "@type": "Service", name: "Concrete Slab" } },
                   { "@type": "Offer", itemOffered: { "@type": "Service", name: "Concrete Steps & Stoops" } },
                 ],
               },
