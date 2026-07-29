@@ -48,7 +48,7 @@ const categories: Category[] = [
   {
     name: "Driveways",
     desc: "Strong driveways that stand up to Rochester winters.",
-    cover: "/gallery/driveway.jpg",
+    cover: "/gallery/driveway-fresh-1.jpg",
     photos: [
       { src: "/gallery/driveway-fresh-1.jpg", alt: "Freshly poured concrete driveway" },
       { src: "/gallery/driveway-fresh-2.jpg", alt: "Concrete driveway pour with traffic cones" },
